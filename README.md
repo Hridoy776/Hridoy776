@@ -18,7 +18,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vG0KQ9puy_lD-OukzTmu3eQ2m7dT5gMP/view?usp=sharing](https://drive.google.com/file/d/1vG0KQ9puy_lD-OukzTmu3eQ2m7dT5gMP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
   [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hridoy776)
   [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hridoy-hstu-che/)
 
